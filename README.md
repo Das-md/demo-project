@@ -7,3 +7,5 @@ Some real work is going on here
 #### Changed in Github!
 
 #### Changed in my workstation!
+
+Once a idea has taken hold of the brain, it's almost impossible to eradicate.
